@@ -21,7 +21,7 @@ def ninety_six(f):
 
 def twenty_six(f):
   """
-  The file I scraped for 2005-2006 data categorizes correctional facilities into four categorizes
+  The file I scraped for 2005-2006 data breaks correctional facilities into four categories
   with four corresponding tables. This loops through the four tables, retrieves the data, and tallys
   the incarcerated population of a given county 
   """
